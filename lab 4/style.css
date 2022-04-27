@@ -1,0 +1,165 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.maindiv {
+width: 500px;
+height: 550px;
+border: 10 solid black;
+background-color: gainsboro ;
+
+margin-top: 50px;
+margin-left: 420px;
+margin-bottom: 10px;
+
+}
+
+.header1 {
+background-color: white;
+width: 130px;
+height: 200px;
+}
+.mavidiv{
+    width: 130px;
+    height: 60px;
+    background-color: rgb(84, 168, 247);
+}
+.mavitext{
+color:white;
+font-size: 25px;
+font-weight: bold;
+display: flex;
+justify-content: center;
+align-items: center;
+padding-top: 15px;
+
+}
+
+.text2{
+    text-align: center;
+    color: gray;
+    margin-top: 20px;
+    font-size: 15px;
+}
+b{
+    font-size: 30px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.text1{
+    font-size: 15px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+
+.header2 {
+    background-color: white;
+    width: 130px;
+    height: 200px;
+    }
+
+    .header3 {
+        background-color: white;
+        width: 130px;
+        height: 200px;
+        }
+        .header{
+            display: flex;
+            justify-content: space-around;
+            padding-top: 30px;
+        }
+
+
+
+.footer {
+    width: 450px;
+    height: 230px;
+    background-color: white;
+    margin-top: 60px;
+    margin-left: 25px;
+    margin-bottom: 10px;
+}
+
+
+
+.p1{
+    color:white;
+    text-align: center;
+padding-top: 15px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+font-size:20px
+}
+
+
+
+
+.p2{
+    color:white;
+    text-align: center;
+padding-top: 15px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+font-size:20px
+}
+.p3{
+    color:white;
+    text-align: center;
+padding-top: 15px;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+font-size:20px
+}
+
+.footer1 {
+    display: flex;
+    justify-content: space-between;
+margin-left: 25px;
+margin-right: 25px;
+padding-top: 30px;
+}
+
+.footer2 {
+    display: flex;
+    justify-content: space-between;
+margin-left: 25px;
+margin-right: 25px;
+padding-top: 30px;
+}
+
+.footer3 {
+    display: flex;
+    justify-content: space-between;
+margin-left: 25px;
+margin-right: 25px;
+padding-top: 30px;
+}
+.grey1{
+    margin-top: 10px;
+
+    background-color: gainsboro;
+    width:410px;
+    height: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.grey2{
+    margin-top: 10px;
+
+    background-color: gainsboro;
+    width:410px;
+    height: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.grey3{
+    margin-top: 10px;
+    background-color: gainsboro;
+    width:410px;
+    height: 10px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
